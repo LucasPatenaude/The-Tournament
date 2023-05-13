@@ -1,9 +1,3 @@
-CSCI 1300 - Spring 2023
-Project 3: The Tournament
-Author: Lucas Patenaude
-Recitation: 201 - Kyler Ruvane
-Date: April 27, 2023
-
 # Welcome to the Tournament
 
 **To Boot** 
